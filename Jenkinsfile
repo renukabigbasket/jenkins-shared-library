@@ -1,5 +1,5 @@
 
-@Library('mylibrary') _
+@Library('pipeline-library-demo') _
 
 import com.demo.GlobalVars
 import com.demo.SampleClass
